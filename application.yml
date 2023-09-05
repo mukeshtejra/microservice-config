@@ -1,6 +1,7 @@
-spring:
-  application:
-    name: USER-DEFAULT-CONFIG
+#Below used for testing for picking config from git
+#spring:
+  #application:
+    #name: USER-DEFAULT-CONFIG
 eureka:
   instance:
     prefer-ip-address: true
